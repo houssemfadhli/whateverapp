@@ -3,7 +3,8 @@
     {
       "id": 1,
       "name": "hello",
-      "desc": " hii"
+      "desc": " hii",
+      "price": "33 dt"
     }
   ],
   "profile": {
