@@ -9,7 +9,10 @@
       "size": "1"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "profile": [
+    {
+    "username": "typicode",
+    "password": "dfgklé"
   }
+ ]
 }
