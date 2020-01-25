@@ -19,6 +19,8 @@
   ], 
   "profile": [
     {
-    }  
+      "username": "houssem",
+      "password": "mypass"
+    },  
   ]
 }
