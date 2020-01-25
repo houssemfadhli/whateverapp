@@ -5,14 +5,16 @@
       "name": "hamburger",
       "desc": "salade, tomate, oignon, cornichon, et de sauce",
       "price": "18 dt",
-      "imageSrc": "https://static.cuisineaz.com/240x192/i99425-hamburger.jpg" 
+      "imageSrc": "https://static.cuisineaz.com/240x192/i99425-hamburger.jpg",
+      "size": "2"
     },
       {
       "id": 2,
       "name": "pizza",
       "desc": "fruits de mer, gruyère, pepperoni",
       "price": "20 dt",
-      "imageSrc": "https://www.atelierdeschefs.com/media/recette-e30299-pizza-pepperoni-tomate-mozza.jpg" 
+      "imageSrc": "https://www.atelierdeschefs.com/media/recette-e30299-pizza-pepperoni-tomate-mozza.jpg",
+        "size": "2"
     }
   ],
   "profile": {
