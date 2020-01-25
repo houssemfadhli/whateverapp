@@ -2,9 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "name": "hello",
-      "desc": " hii",
-      "price": "33 dt",
+      "name": "hamburger",
+      "desc": "salade, tomate, oignon, cornichon, et de sauce",
+      "price": "18 dt",
       "imageSrc": "https://static.cuisineaz.com/240x192/i99425-hamburger.jpg" 
     }
   ],
