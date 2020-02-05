@@ -14,5 +14,16 @@
       "imageSrc": "https://www.paysdegrasse.fr/sites/default/files/bicycletteweb-bd.jpg",
       "size": "2"
     }
+  ],
+  "users": [
+    {
+      "username": "houssem",
+      "password": "pi"
+    },
+     {
+      "username": "varvatos",
+      "paswword": "karl"
+    }
   ]
+  
 }
