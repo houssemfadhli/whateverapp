@@ -10,6 +10,7 @@
     },
      {
       "name": "Bicyclette",
+      "id":"2",
       "desc": "Pour enfants + casque",
       "price": "160",
       "byUsername": "varvatos",
@@ -17,6 +18,7 @@
      },
      {
       "name": "Smart tv",
+      "id":"3",
       "desc": "Wifi, android, 4K, 49",
       "price": "1600",
       "byUsername": "varvatos",
@@ -24,6 +26,7 @@
      },
      {
       "name": "Macbook",
+      "id":"4",
       "desc": "Annee 2018, Ram 16g..",
       "price": "1800",
       "byUsername": "houssem",
