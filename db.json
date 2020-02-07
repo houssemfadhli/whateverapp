@@ -36,11 +36,13 @@
   "users": [
     {
       "username": "varvatos",
-      "password": "pi"
+      "password": "pi",
+      "joinedAt": "23:49 07/02/2020"
     },
     {
       "username": "houssem",
-      "password": "fa"
+      "password": "fa",
+      "joinedAt": "11:30 07/02/2020"
     }
   ]
   
